@@ -1,4 +1,4 @@
-/*I tried to code custon class in MPMB friendly Java Script but it keeps giving me Syntax error: missing } after property list.*/
+/*If you have any remarks, tel me know in the comment area.*/
 
 var iFileName = "Tome of Monstrous Races: Half-Dragon.js";
 RequiredSheetVersion(12.999);
